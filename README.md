@@ -1,4 +1,4 @@
-# MiPrimerPortalNode
+# Mi Primer Portal Node
 En este proyecto se hizo un portal web usando la herramienta 
 "NodeJS" para asi configurar el servidor, 
 haciendo uso del servicio de host en la nube 
